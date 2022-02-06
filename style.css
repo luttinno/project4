@@ -170,6 +170,7 @@ button{
 }
 
 #hidden-header{
+    display: none;
     box-sizing: border-box;
     color: white;
     background-color:#212529;
