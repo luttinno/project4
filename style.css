@@ -1,0 +1,200 @@
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+}
+
+body{
+    min-height: 100vh;
+}
+
+header{
+    background-color: #212529;
+    width: 100%;
+    height: 75px;
+}
+
+.logo{
+    padding: 12px;
+    margin-left: 15%;
+}
+
+#btn{
+    margin-left: 73%;
+    cursor: pointer;
+    border: none;
+    background-color: #212529;
+}
+#album{
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+footer{
+    position: sticky;
+    box-sizing: border-box;
+    display: block;
+    color: #6c757d;
+    width: 100%;
+    height: 148px;
+    top: 100%;
+    font-size: 18px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+.btt{
+    color: #0d6efd;
+    text-decoration: underline;
+    margin-left: 95%;
+}
+.text-1{
+    margin-left: 3%;
+}
+.container{
+    padding: 48px;
+}
+
+section{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin-top: 90px;
+    padding: 5px;
+}
+
+.row{
+    display: inline-block;
+    width: 640px;
+}
+
+.album-example{
+    font-size: 2.5rem;
+    font-weight: lighter;
+
+
+}
+.smtext{
+    color: #6c757d;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+
+.btns{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 18px;
+    text-align: center;
+
+}
+.btn2{
+    background-color: #6c757d;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+
+}
+
+.btn1{
+    padding: 10px;
+    margin: 1px;
+    color: white;
+    background-color: #0d6efd;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+
+.cards{
+    margin-left: 100px;
+    width: 27%;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 2px 2px 10px black;
+    margin-top: 200px;
+}
+
+.image{
+    width: 100%;
+    height: 250px;
+    background-color: rgb(85, 89, 92);
+    color: white;
+    text-align: center;
+    padding: 55px;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.img-text{
+    margin-top: 50px;
+}
+
+.card-des{
+    margin: 5px;
+    padding: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+}
+
+
+button{
+    margin: 5px;
+    padding: 5px;
+    background-color: white;
+    border: 1px solid grey;
+    border-radius: 5px;
+    color: gray;
+    display: inline-block;
+    cursor: pointer;
+}
+
+
+.time{
+    margin-left: 300px;
+    border-radius: none;
+    border: none;
+    font-size: 18px;
+    cursor:text;
+}
+.cards{
+    display: inline-block;
+}
+
+.sometxt{
+    padding-top: 10px;
+    color: #6c757d;
+    width: 541px;
+    height: 72px;
+}
+
+#hidden-header{
+    box-sizing: border-box;
+    color: white;
+    background-color:#212529;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.contacts{
+    margin: 5px;
+    margin-left: 150px;
+    color: white;
+    display: inline-block;
+    list-style: none;
+
+}
+.cntc{
+    margin-top: 30px;
+    margin-left: 300px;
+}
+h4{
+    font-size: 1.5rem;
+}
+.about{
+    padding-left: 5px;
+    padding-top: 5px;
+    margin-left: 290px;
+    display: inline-block;
+}
